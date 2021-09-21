@@ -1,0 +1,15 @@
+.Phonetic {
+  margin: 20px 0;
+}
+
+.Phonetic a {
+  border-radius: 20px;
+}
+
+.Phonetic a:hover {
+  color: #e1701a;
+}
+.Phonetic .text {
+  font-weight: 600;
+  opacity: 0.6;
+}
