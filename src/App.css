@@ -1,5 +1,5 @@
 body {
-  background: #c9d8b6;
+  background: #b6c4a4;
   font-family: "Spartan", sans-serif;
   color: #57837b;
 }
@@ -12,6 +12,9 @@ h1 {
 a {
   color: #57837b;
   text-decoration: none;
+}
+a:hover {
+  color: #fdfef0;
 }
 
 .App {

@@ -8,6 +8,7 @@
 
 .Phonetic a:hover {
   color: #e1701a;
+  cursor: cell;
 }
 .Phonetic .text {
   font-weight: 600;
