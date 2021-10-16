@@ -16,13 +16,16 @@ export default function App() {
         <a
           href="https://github.com/mariamelomaga/dictionary-project-"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           on GitHub
         </a>{" "}
         {}
         and hosted on{" "}
-        <a href="https://priceless-tesla-8f038b.netlify.app/">Netlify</a>
+        <a href="https://priceless-tesla-8f038b.netlify.app/" rel="noreferrer">
+          Netlify
+        </a>
       </footer>
     </div>
   );
